@@ -10,7 +10,7 @@
 pip3.6 install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org --trusted-host=pypi.python.org <package name>
 ```
 
->> 注意: pip3.6的3.6是指python版本，如果你是3.7應該換成pip3.7
+> 注意: pip3.6的3.6是指python版本，如果你是3.7應該換成pip3.7
 
 ## 今日Demo
 
