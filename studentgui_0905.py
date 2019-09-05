@@ -21,7 +21,7 @@ class QueryFrame(Frame):
         self.result.pack()
 
     def query(self):
-        name = self.l1.get()
+        name = self.e1.get()
 
 window = Tk()
 
